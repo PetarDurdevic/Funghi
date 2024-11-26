@@ -70,31 +70,29 @@ The color of each growth stage is interpolated based on position or growth facto
 
 ---
 
-### Prerequisites
-
-Ensure the following Python libraries are installed:
-- `Python 3.8 or higher`
-- `matplotlib`
-- `numpy`
-
-Install them using:
-```bash
-pip install matplotlib numpy
-
-
 ## Applications
+
 This dataset is suitable for:
-- Machine Learning: Training models to classify fungal growth stages.
-- Biological Simulation: Studying growth patterns in fungi.
-- Art and Design: Generating biologically inspired visuals.
+- **Machine Learning**: Training models to classify fungal growth stages.
+- **Biological Simulation**: Studying growth patterns in fungi.
+- **Art and Design**: Generating biologically inspired visuals.
+
+---
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+---
 
 ## Contributing
+
 Contributions are welcome! Feel free to:
 - Open issues for suggestions or bugs.
 - Submit pull requests for improvements or additional features.
 
+---
+
 ## Acknowledgments
+
 This dataset generation script is inspired by the complexity and beauty of fungal growth patterns, blending biology and computational modeling.
