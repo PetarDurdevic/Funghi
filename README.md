@@ -79,6 +79,20 @@ Ensure the following Python libraries are installed:
 Install them using:
 ```bash
 pip install matplotlib numpy
+
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+
+## Contributing
+Contributions are welcome! Feel free to:
+- Open issues for suggestions or bugs.
+- Submit pull requests for improvements or additional features.
+
+## Acknowledgments
+This dataset generation script is inspired by the complexity and beauty of fungal growth patterns, blending biology and computational modeling.
+
 ---
 ### Instructions:
 - Replace any placeholder paths with the actual paths used in your repository.
