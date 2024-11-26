@@ -17,7 +17,7 @@ This dataset captures the progressive stages of fungal growth, visualized throug
 
 ### Transition
 
-The transition between these stages is gradual, controlled by probabilistic modeling. For example:
+The transition between these stages is gradual, and controlled by probabilistic modeling. For example:
 - Spores convert to hyphae, and hyphae transition into interconnected mycelium.
 - Growth dynamics are influenced by environmental factors like **temperature** and **growth scaling**.
 
@@ -35,7 +35,7 @@ The fungi growth is modeled using a recursive branching function. At each branch
 ### Mathematical Representation
 
 1. **Branch Length Scaling**:
-It is a normal distribution with mean 1 and standard deviation 0.2.
+It is a normal distribution with mean=1 and standard deviation=0.2.
 
 2. **Dynamic Color Interpolation**:
 The color of each growth stage is interpolated based on position or growth factor. This ensures smooth transitions from yellow to orange to red.
@@ -56,7 +56,7 @@ The color of each growth stage is interpolated based on position or growth facto
   - Final stages highlight dense, red mycelium.
 
 - **Environmental Factors**:
-  - Branching and growth are influenced by random environmental perturbations.
+  - Random environmental perturbations influence branching and growth.
 
 - **Image Resolution**:
   - High-resolution images (15x15 grid), suitable for visualization and analysis.
