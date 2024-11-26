@@ -20,7 +20,7 @@ This dataset captures the progressive stages of fungal growth, visualized throug
 The transition between these stages is gradual, and controlled by probabilistic modeling. For example:
 - Spores convert to hyphae, and hyphae transition into interconnected mycelium.
 - Growth dynamics are influenced by environmental factors like **temperature** and **growth scaling**.
-
+![Fungi Tracking](track_fungi.pdf)
 ---
 
 ## How the Dataset is Generated
