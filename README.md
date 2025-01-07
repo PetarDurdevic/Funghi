@@ -78,7 +78,12 @@ This dataset is suitable for:
 - **Art and Design**: Generating biologically inspired visuals.
 
 ---
+## Research Paper
+To support the study of these time-dependent processes, we present a synthetic, time-aligned image dataset that models key stages of fungal growth. This dataset systematically captures phenomena such as spore size reduction, branching dynamics, and the emergence of complex mycelium networks.
 
+[SYNTHETIC FUNGI DATASETS: A TIME-ALIGNED APPROACH](2501.02855v1.pdf)
+
+---
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
